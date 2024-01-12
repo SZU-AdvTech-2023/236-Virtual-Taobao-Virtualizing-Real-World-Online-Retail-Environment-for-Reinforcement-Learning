@@ -1,0 +1,9 @@
+@inproceedings{REPO236,
+    author = "Shi, Jing-Cheng and Yu, Yang and Da, Qing and Chen, Shi-Yong and Zeng, An-Xiang",
+    booktitle = "Proceedings of the AAAI Conference on Artificial Intelligence",
+    number = "01",
+    pages = "4902--4909",
+    title = "{Virtual-Taobao: Virtualizing Real-World Online Retail Environment for Reinforcement Learning}",
+    volume = "33",
+    year = "2019"
+}
